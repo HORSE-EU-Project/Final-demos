@@ -1,8 +1,8 @@
 This folder contains the links to the final versions of the demos carried out in the HORSE Project.
 
-- [Demo 0] (https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQBD8gp6hcm6RrNPuA3fZACBAd--9iXRHbG_T66Ghksi6lo?e=HUpLFZ): Hello world - Detection workflow
+- [Demo 0](https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQBD8gp6hcm6RrNPuA3fZACBAd--9iXRHbG_T66Ghksi6lo?e=HUpLFZ): Hello world - Detection workflow
 
-- [Demo 0] (https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQAr1uL2P-e1T7iKE7pJpKeRAVDr3Nc-TnSdBOk94HRxcHs?e=LddHlk): Hello world - Prediction workflow
+- [Demo 0](https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQAr1uL2P-e1T7iKE7pJpKeRAVDr3Nc-TnSdBOk94HRxcHs?e=LddHlk): Hello world - Prediction workflow
 
 - [Demo 1](https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQC18pxzWkUnT6mAJ46YiKyMAbaUv3WNgKe9ecjad6GQJCo?e=Lzns7e): Detecting NTP DDoS Amplification attack
 
