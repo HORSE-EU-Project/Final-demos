@@ -19,3 +19,7 @@ This folder contains the links to the final versions of the demos carried out in
 - [Demo 7](https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQBY-UEjWQMoSKemsV6O23dxAV3P0PfKl-zP4e19sc89qM0?e=uChEhI): API & Network Functions Exposure
 
 - [Demo 8](https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQCAsxyjaAFEQ7MiGY1GySwXAbs6X_oy0SGxvUKPHepvgI4?e=MpS1q1): Predicting attack on signaling PFCP traffic
+
+- [Demo 9](https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQCmL2x2TbkDS7wHZoCXTjyKAe-TQ36UMdwPriQ-YWEFuTg?e=EeZaXi): Use Case 1 - Secure Smart LRT Systems
+
+- [Demo 10](https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQA1GxfwFNT7TrlzwgzD1_pQARRtdXyuowa5azppSbOUEng?e=UfLEqX): Use Case 2 - Remote Rendering to Power XR Industrial
