@@ -22,4 +22,4 @@ This folder contains the links to the final versions of the demos carried out in
 
 - [Demo 9](https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQCmL2x2TbkDS7wHZoCXTjyKAe-TQ36UMdwPriQ-YWEFuTg?e=EeZaXi): Use Case 1 - Secure Smart LRT Systems
 
-- [Demo 10](https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQA1GxfwFNT7TrlzwgzD1_pQARRtdXyuowa5azppSbOUEng?e=UfLEqX): Use Case 2 - Remote Rendering to Power XR Industrial
+- [Demo 10](https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQCMI8j9NI7FRojq8fmHzQtHAXQxp2UunkK7Bisx_Q9bhkc?e=8HkwgW): Use Case 2 - Remote Rendering to Power XR Industrial
