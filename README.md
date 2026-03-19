@@ -14,7 +14,7 @@ This folder contains the links to the final versions of the demos carried out in
 
 - [Demo 5](https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQDX2vK30SctRY2y1stdCpJUAQOgFhr-AVBC7mt2An4Mqq0?e=tcVlOS): Enforcing multidomain mitigation actions
 
-- [Demo 6](https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQDGlWQJq9IATI2XAVocUOfHAVu7opIXtim1JzBw5ZFnWFw?e=DeqMAq): Man-in-the-middle attack on northbound IBI interface
+- [Demo 6](https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQBFRaBVXTaLS7WsRNp7PBoRAXJKf42uN-8cPX5xUMCZ4ew?e=eXDWIY): Man-in-the-middle attack on northbound IBI interface
 
 - [Demo 7](https://tntlabunigeit-my.sharepoint.com/:v:/g/personal/horse-cloud_tnt-lab_unige_it/IQBY-UEjWQMoSKemsV6O23dxAV3P0PfKl-zP4e19sc89qM0?e=uChEhI): API & Network Functions Exposure
 
